@@ -1,14 +1,14 @@
 {
   "name": "hentis-v2-sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An SDK for building applications on top of Hentis V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/hentis-one/Hentis-v2-sdk.git",
+  "repository": "https://github.com/hentis-one/v2-sdk.git",
   "keywords": [
     "hentis",
     "sui"
